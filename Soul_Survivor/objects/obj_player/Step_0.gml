@@ -25,8 +25,16 @@ if keyboard_check(vk_up) or keyboard_check(ord("W")) {
 	sprite_index = spr_playerRunning
 	player_direction = direction_facing.up
 }
-if  keyboard_check(vk_alt) {
+if keyboard_check(vk_alt) {
 	instance_destroy()
 }
+
+if canShootPistol == true {
+
+	canShootPistol = false
+	alarm[0] = 45
+	instance_create_layer(x,y,"Instances",obj_pistol_bullet)
+}
+
 
 
