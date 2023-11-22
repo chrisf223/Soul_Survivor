@@ -39,16 +39,27 @@ if keyboard_check(vk_up) or keyboard_check(ord("W")) {
 	}
 }
 
-if keyboard_check(vk_alt) {
-	instance_destroy()
-}
 
-if canShootPistol == true {
+if canShootPistol == false {
 
 	canShootPistol = false
 	alarm[0] = 45
-	instance_create_layer(x,y,"Instances",obj_pistol_bullet)
+	instance_create_layer(x,y,"Instances",obj_pistolBullet)
 }
 
+randomInt = irandom(3)
+if canShootAR == true {
+	canShootAR = false
+	alarm[1] = 200
+	instance_create_layer(x,y,"Instances",obj_arBullet)
+}
 
+if health <= 0 {
+	instance_destroy()
+}
+
+if experience == levelUpNumber {
+	levelUpNumber += 50
+	level ++
+}
 
