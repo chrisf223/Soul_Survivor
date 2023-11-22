@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_zombie",
+    "path": "sprites/spr_zombie/spr_zombie.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

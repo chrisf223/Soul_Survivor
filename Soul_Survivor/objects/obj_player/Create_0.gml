@@ -7,6 +7,6 @@ enum direction_facing {
 	
 player_direction = direction_facing.right
 
-
+canShootPistol = true
 
 
