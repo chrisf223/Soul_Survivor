@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_playerDeath",
-    "path": "sprites/spr_playerDeath/spr_playerDeath.yy",
+    "name": "spr_playerDeathSide",
+    "path": "sprites/spr_playerDeathSide/spr_playerDeathSide.yy",
   },
   "spriteMaskId": null,
   "visible": true,

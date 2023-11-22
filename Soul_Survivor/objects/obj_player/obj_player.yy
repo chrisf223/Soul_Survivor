@@ -33,8 +33,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_playerIdle",
-    "path": "sprites/spr_playerIdle/spr_playerIdle.yy",
+    "name": "spr_playerIdleSide",
+    "path": "sprites/spr_playerIdleSide/spr_playerIdleSide.yy",
   },
   "spriteMaskId": null,
   "visible": true,
