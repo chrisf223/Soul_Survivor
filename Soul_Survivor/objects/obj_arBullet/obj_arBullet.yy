@@ -12,8 +12,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_pistolBullet","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"propertyId":{"name":"bullet_speed","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"value":"5",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Projectile Objects",
+    "path": "folders/Objects/Projectile Objects.yy",
   },
   "parentObjectId": {
     "name": "obj_pistolBullet",
