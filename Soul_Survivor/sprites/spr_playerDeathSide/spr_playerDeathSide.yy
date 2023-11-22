@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_playerDeath",
+  "name": "spr_playerDeathSide",
   "bbox_bottom": 31,
   "bbox_left": 8,
   "bbox_right": 31,
@@ -35,7 +35,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_playerDeath",
+    "name": "spr_playerDeathSide",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -57,10 +57,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e94080cd-ff83-41f5-afcd-aba93f0ae7ed","path":"sprites/spr_playerDeath/spr_playerDeath.yy",},},},"Disabled":false,"id":"438237c1-69c3-4db8-9a65-d8c3038ba41d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bc2c231c-4b41-47de-a2f4-8136fe9075dd","path":"sprites/spr_playerDeath/spr_playerDeath.yy",},},},"Disabled":false,"id":"a7ea7d74-0c1b-44ae-a6dd-22ef80726463","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1d83f15e-027e-4624-bdae-535e486d1e3d","path":"sprites/spr_playerDeath/spr_playerDeath.yy",},},},"Disabled":false,"id":"840a0df2-4b63-460f-b255-933888789ba2","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"654eb23d-9777-4c80-910d-8f4e5dec8a07","path":"sprites/spr_playerDeath/spr_playerDeath.yy",},},},"Disabled":false,"id":"7d20e12b-3064-4368-b5de-8f5c0447b583","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e94080cd-ff83-41f5-afcd-aba93f0ae7ed","path":"sprites/spr_playerDeathSide/spr_playerDeathSide.yy",},},},"Disabled":false,"id":"438237c1-69c3-4db8-9a65-d8c3038ba41d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bc2c231c-4b41-47de-a2f4-8136fe9075dd","path":"sprites/spr_playerDeathSide/spr_playerDeathSide.yy",},},},"Disabled":false,"id":"a7ea7d74-0c1b-44ae-a6dd-22ef80726463","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1d83f15e-027e-4624-bdae-535e486d1e3d","path":"sprites/spr_playerDeathSide/spr_playerDeathSide.yy",},},},"Disabled":false,"id":"840a0df2-4b63-460f-b255-933888789ba2","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"654eb23d-9777-4c80-910d-8f4e5dec8a07","path":"sprites/spr_playerDeathSide/spr_playerDeathSide.yy",},},},"Disabled":false,"id":"7d20e12b-3064-4368-b5de-8f5c0447b583","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
