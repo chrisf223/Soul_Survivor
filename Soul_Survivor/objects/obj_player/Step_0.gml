@@ -40,7 +40,7 @@ if keyboard_check(vk_up) or keyboard_check(ord("W")) {
 }
 
 
-if canShootPistol == false {
+if canShootPistol == true {
 
 	canShootPistol = false
 	alarm[0] = 45
