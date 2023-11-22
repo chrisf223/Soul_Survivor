@@ -21,3 +21,6 @@ canShootSniper = false
 canShootGrenadeLauncher = false
 
 randomInt = 1
+
+glTimer = 175
+alarm[2] = glTimer

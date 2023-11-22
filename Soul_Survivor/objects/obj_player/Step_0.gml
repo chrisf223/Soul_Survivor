@@ -54,6 +54,8 @@ if canShootAR == true {
 	instance_create_layer(x,y,"Instances",obj_arBullet)
 }
 
+
+
 if health <= 0 {
 	instance_destroy()
 }
