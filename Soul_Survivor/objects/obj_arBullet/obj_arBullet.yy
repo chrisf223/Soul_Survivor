@@ -5,10 +5,11 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_pistolBullet","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"propertyId":{"name":"bullet_speed","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"value":".1",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_pistolBullet","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"propertyId":{"name":"bullet_speed","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"value":"5",},
   ],
   "parent": {
     "name": "Objects",
