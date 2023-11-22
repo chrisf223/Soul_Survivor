@@ -35,7 +35,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_backround","path":"sprites/spr_backround/spr_backround.yy",},},
@@ -60,6 +60,7 @@
     {"id":{"name":"testRoom","path":"rooms/testRoom/testRoom.yy",},},
     {"id":{"name":"spr_MP5","path":"sprites/spr_MP5/spr_MP5.yy",},},
     {"id":{"name":"spr_playerDeathUp","path":"sprites/spr_playerDeathUp/spr_playerDeathUp.yy",},},
+    {"id":{"name":"obj_playerDeathUp","path":"objects/obj_playerDeathUp/obj_playerDeathUp.yy",},},
     {"id":{"name":"spr_playerDeathSide","path":"sprites/spr_playerDeathSide/spr_playerDeathSide.yy",},},
     {"id":{"name":"spr_playerIdleDown","path":"sprites/spr_playerIdleDown/spr_playerIdleDown.yy",},},
     {"id":{"name":"spr_SawedOff","path":"sprites/spr_SawedOff/spr_SawedOff.yy",},},
@@ -71,8 +72,9 @@
     {"id":{"name":"spr_weapons","path":"sprites/spr_weapons/spr_weapons.yy",},},
     {"id":{"name":"spr_playerDeathDown","path":"sprites/spr_playerDeathDown/spr_playerDeathDown.yy",},},
     {"id":{"name":"spr_G36C","path":"sprites/spr_G36C/spr_G36C.yy",},},
+    {"id":{"name":"obj_playerDeathDown","path":"objects/obj_playerDeathDown/obj_playerDeathDown.yy",},},
     {"id":{"name":"spr_playerIdleSide","path":"sprites/spr_playerIdleSide/spr_playerIdleSide.yy",},},
-    {"id":{"name":"obj_playerDeath","path":"objects/obj_playerDeath/obj_playerDeath.yy",},},
+    {"id":{"name":"obj_playerDeathSide","path":"objects/obj_playerDeathSide/obj_playerDeathSide.yy",},},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},},
     {"id":{"name":"spr_Vector","path":"sprites/spr_Vector/spr_Vector.yy",},},
     {"id":{"name":"TileSet_Plants","path":"tilesets/TileSet_Plants/TileSet_Plants.yy",},},
@@ -92,6 +94,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"testRoom","path":"rooms/testRoom/testRoom.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
