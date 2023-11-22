@@ -1,11 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_pistol_bullet",
+  "name": "obj_pistolBullet",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
@@ -33,8 +32,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_pistol_bullet",
-    "path": "sprites/spr_pistol_bullet/spr_pistol_bullet.yy",
+    "name": "spr_pistolBullet",
+    "path": "sprites/spr_pistolBullet/spr_pistolBullet.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,0 +1,6 @@
+canShootAR = true
+
+
+
+
+
