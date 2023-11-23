@@ -13,14 +13,16 @@ enum direction_facing {
 	
 player_direction = direction_facing.right
 
-canShootPistol = false
-canShootAR = false
-canShootSMG = false
-canShootRocketLauncher = false
+canShootPistol = true
+canShootAR = true
+canShootSMG = true
+canShootRocketLauncher = true
 canShootSniper = true
-canShootGrenadeLauncher = false
+canShootGrenadeLauncher = true
 
 randomInt = 1
+smg_directionOne = 0
+smg_directionTwo = 180
 
 glTimer = 175
 alarm[2] = glTimer
