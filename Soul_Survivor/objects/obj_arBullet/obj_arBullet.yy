@@ -8,16 +8,14 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_pistolBullet","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"propertyId":{"name":"bullet_speed","path":"objects/obj_pistolBullet/obj_pistolBullet.yy",},"value":"5",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Projectile Objects",
     "path": "folders/Objects/Projectile Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_pistolBullet",
-    "path": "objects/obj_pistolBullet/obj_pistolBullet.yy",
+    "name": "obj_projectileParent",
+    "path": "objects/obj_projectileParent/obj_projectileParent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

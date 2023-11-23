@@ -13,10 +13,10 @@ enum direction_facing {
 	
 player_direction = direction_facing.right
 
-canShootPistol = true
-canShootAR = true
+canShootPistol = false
+canShootAR = false
 canShootSMG = false
-canShootRocketLauncher = false
+canShootRocketLauncher = true
 canShootSniper = false
 canShootGrenadeLauncher = false
 
