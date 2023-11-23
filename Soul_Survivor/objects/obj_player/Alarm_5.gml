@@ -1,0 +1,6 @@
+canShootSMG = true
+
+
+
+
+
