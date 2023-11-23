@@ -102,6 +102,7 @@
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},},
     {"id":{"name":"spr_Vector","path":"sprites/spr_Vector/spr_Vector.yy",},},
     {"id":{"name":"TileSet_Plants","path":"tilesets/TileSet_Plants/TileSet_Plants.yy",},},
+    {"id":{"name":"sh_Flash","path":"shaders/sh_Flash/sh_Flash.yy",},},
     {"id":{"name":"spr_zombie","path":"sprites/spr_zombie/spr_zombie.yy",},},
     {"id":{"name":"spr_pistol_bullet","path":"sprites/spr_pistol_bullet/spr_pistol_bullet.yy",},},
     {"id":{"name":"spr_GrenadeLauncher","path":"sprites/spr_GrenadeLauncher/spr_GrenadeLauncher.yy",},},
