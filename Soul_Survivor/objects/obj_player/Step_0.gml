@@ -8,6 +8,10 @@ if player_direction == direction_facing.down {
 	sprite_index = spr_playerIdleDown
 }
 
+if currentHealth <= 0 {
+	global.gameOver = true
+}
+
 x = clamp(x, sprite_width/2, room_width-sprite_width/2)
 y = clamp(y, sprite_height/2, room_height-sprite_height/2)
 
@@ -40,47 +44,17 @@ if keyboard_check(vk_up) or keyboard_check(ord("W")) {
 }
 
 
-if canShootPistol == true {
-
-	canShootPistol = false
-	alarm[0] = 45
-	instance_create_layer(x,y,"Instances",obj_pistolBullet)
-}
-
-randomInt = irandom(3)
-if canShootAR == true {
-	canShootAR = false
-	alarm[1] = 200
-	instance_create_layer(x,y,"Instances",obj_arBullet)
-}
-
-if canShootRocketLauncher == true {
-	canShootRocketLauncher = false
-	alarm[3] = 500
-	instance_create_layer(x,y,"Instances",obj_rocket)
-}
-
-if canShootSniper == true {
-	canShootSniper = false
-	alarm[4] =300
-	instance_create_layer(x,y,"Instances",obj_sniperBullet)
-}
-
-if canShootSMG == true {
-	canShootSMG = false
-	alarm[5] = 15
-	instance_create_layer(x,y,"Instances",obj_smgBulletOne)
-	instance_create_layer(x,y,"Instances",obj_smgBulletTwo)
-	smg_directionOne += 10
-	smg_directionTwo += 10
-}
-
-if health <= 0 {
-	instance_destroy()
-}
-
 if experience == levelUpNumber {
 	levelUpNumber += 50
 	level ++
 }
+
+slot[0] = "pistol"
+slot[1] = "assault rifle"
+slot[2] = "submachine gun"
+slot[3] = "grenade launcher"
+slot[4] = "rocket launcher"
+slot[5] = "sniper rifle"
+
+
 

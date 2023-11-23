@@ -11,5 +11,5 @@ if obj_player.player_direction == direction_facing.down {
 	vspeed += bullet_speed
 }
 
-
+damage = 15
 

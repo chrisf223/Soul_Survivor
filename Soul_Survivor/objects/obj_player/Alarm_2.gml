@@ -1,4 +1,4 @@
 
-event_user(0)
+event_user(2)
 
 alarm[2] = glTimer
