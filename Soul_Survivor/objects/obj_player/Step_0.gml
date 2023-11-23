@@ -54,6 +54,11 @@ if canShootAR == true {
 	instance_create_layer(x,y,"Instances",obj_arBullet)
 }
 
+if canShootRocketLauncher == true {
+	canShootRocketLauncher = false
+	alarm[3] = 500
+	instance_create_layer(x,y,"Instances",obj_rocket)
+}
 
 
 if health <= 0 {

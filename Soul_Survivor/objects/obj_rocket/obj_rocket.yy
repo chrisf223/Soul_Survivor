@@ -1,14 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_pistolBullet13",
+  "name": "obj_rocket",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_enemyParent","path":"objects/obj_enemyParent/obj_enemyParent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_projectileParent","path":"objects/obj_projectileParent/obj_projectileParent.yy",},"propertyId":{"name":"bullet_speed","path":"objects/obj_projectileParent/obj_projectileParent.yy",},"value":"3",},
+  ],
   "parent": {
     "name": "Projectile Objects",
     "path": "folders/Objects/Projectile Objects.yy",
@@ -30,13 +31,11 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bullet_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"8","varType":0,},
-  ],
+  "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_pistolBullet",
-    "path": "sprites/spr_pistolBullet/spr_pistolBullet.yy",
+    "name": "spr_rpgBullet",
+    "path": "sprites/spr_rpgBullet/spr_rpgBullet.yy",
   },
   "spriteMaskId": null,
   "visible": true,

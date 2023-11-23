@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_pistolBullet",
+  "name": "obj_rocketExplosion",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,10 +11,7 @@
     "name": "Projectile Objects",
     "path": "folders/Objects/Projectile Objects.yy",
   },
-  "parentObjectId": {
-    "name": "obj_projectileParent",
-    "path": "objects/obj_projectileParent/obj_projectileParent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_pistolBullet",
-    "path": "sprites/spr_pistolBullet/spr_pistolBullet.yy",
+    "name": "spr_rpgExplosion",
+    "path": "sprites/spr_rpgExplosion/spr_rpgExplosion.yy",
   },
   "spriteMaskId": null,
   "visible": true,
