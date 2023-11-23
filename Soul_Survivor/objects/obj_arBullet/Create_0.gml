@@ -19,3 +19,4 @@ if random_direction == 3 {
 	hspeed += bullet_speed
 }
 
+damage = 10
