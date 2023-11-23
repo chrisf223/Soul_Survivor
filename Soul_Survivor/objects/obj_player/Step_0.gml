@@ -49,12 +49,7 @@ if experience == levelUpNumber {
 	level ++
 }
 
-slot[0] = "pistol"
-slot[1] = "assault rifle"
-slot[2] = "submachine gun"
-slot[3] = "grenade launcher"
-slot[4] = "rocket launcher"
-slot[5] = "sniper rifle"
+
 
 
 
