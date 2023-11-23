@@ -60,6 +60,11 @@ if canShootRocketLauncher == true {
 	instance_create_layer(x,y,"Instances",obj_rocket)
 }
 
+if canShootSniper == true {
+	canShootSniper = false
+	alarm[4] = 300
+	instance_create_layer(x,y,"Instances",obj_sniperBullet)
+}
 
 if health <= 0 {
 	instance_destroy()

@@ -16,8 +16,8 @@ player_direction = direction_facing.right
 canShootPistol = false
 canShootAR = false
 canShootSMG = false
-canShootRocketLauncher = true
-canShootSniper = false
+canShootRocketLauncher = false
+canShootSniper = true
 canShootGrenadeLauncher = false
 
 randomInt = 1

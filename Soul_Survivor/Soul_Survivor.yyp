@@ -73,6 +73,7 @@
     {"id":{"name":"obj_grenade","path":"objects/obj_grenade/obj_grenade.yy",},},
     {"id":{"name":"obj_arBullet","path":"objects/obj_arBullet/obj_arBullet.yy",},},
     {"id":{"name":"obj_projectileParent","path":"objects/obj_projectileParent/obj_projectileParent.yy",},},
+    {"id":{"name":"obj_sniperBullet","path":"objects/obj_sniperBullet/obj_sniperBullet.yy",},},
     {"id":{"name":"spr_MP5","path":"sprites/spr_MP5/spr_MP5.yy",},},
     {"id":{"name":"spr_playerDeathUp","path":"sprites/spr_playerDeathUp/spr_playerDeathUp.yy",},},
     {"id":{"name":"obj_playerDeathUp","path":"objects/obj_playerDeathUp/obj_playerDeathUp.yy",},},

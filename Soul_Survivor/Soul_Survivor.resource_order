@@ -50,6 +50,7 @@
     {"name":"testRoom","order":1,"path":"rooms/testRoom/testRoom.yy",},
     {"name":"obj_grenade","order":5,"path":"objects/obj_grenade/obj_grenade.yy",},
     {"name":"obj_projectileParent","order":2,"path":"objects/obj_projectileParent/obj_projectileParent.yy",},
+    {"name":"obj_sniperBullet","order":10,"path":"objects/obj_sniperBullet/obj_sniperBullet.yy",},
     {"name":"spr_MP5","order":3,"path":"sprites/spr_MP5/spr_MP5.yy",},
     {"name":"spr_playerDeathUp","order":9,"path":"sprites/spr_playerDeathUp/spr_playerDeathUp.yy",},
     {"name":"obj_playerDeathUp","order":5,"path":"objects/obj_playerDeathUp/obj_playerDeathUp.yy",},
