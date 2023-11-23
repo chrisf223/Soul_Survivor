@@ -28,6 +28,7 @@
     {"name":"spr_scarab","order":8,"path":"sprites/spr_scarab/spr_scarab.yy",},
     {"name":"obj_bat","order":1,"path":"objects/obj_bat/obj_bat.yy",},
     {"name":"spr_M4A1","order":14,"path":"sprites/spr_M4A1/spr_M4A1.yy",},
+    {"name":"spr_soul","order":8,"path":"sprites/spr_soul/spr_soul.yy",},
     {"name":"spr_rpgBullet","order":4,"path":"sprites/spr_rpgBullet/spr_rpgBullet.yy",},
     {"name":"spr_arBullet","order":3,"path":"sprites/spr_arBullet/spr_arBullet.yy",},
     {"name":"spr_glBullet","order":5,"path":"sprites/spr_glBullet/spr_glBullet.yy",},
