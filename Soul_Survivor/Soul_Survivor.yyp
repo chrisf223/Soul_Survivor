@@ -46,6 +46,7 @@
     {"id":{"name":"spr_scarab","path":"sprites/spr_scarab/spr_scarab.yy",},},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},},
     {"id":{"name":"spr_M4A1","path":"sprites/spr_M4A1/spr_M4A1.yy",},},
+    {"id":{"name":"spr_soul","path":"sprites/spr_soul/spr_soul.yy",},},
     {"id":{"name":"spr_rpgBullet","path":"sprites/spr_rpgBullet/spr_rpgBullet.yy",},},
     {"id":{"name":"spr_grassTileSet","path":"sprites/spr_grassTileSet/spr_grassTileSet.yy",},},
     {"id":{"name":"spr_arBullet","path":"sprites/spr_arBullet/spr_arBullet.yy",},},
