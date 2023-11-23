@@ -1,4 +1,4 @@
-/// @description creates grenade object
+
 
 var grenade = instance_create_layer(x,y,"Instances",obj_grenade)
 
