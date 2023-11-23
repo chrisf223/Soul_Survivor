@@ -38,7 +38,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_backround","path":"sprites/spr_backround/spr_backround.yy",},},
@@ -50,6 +50,7 @@
     {"id":{"name":"spr_rpgBullet","path":"sprites/spr_rpgBullet/spr_rpgBullet.yy",},},
     {"id":{"name":"spr_grassTileSet","path":"sprites/spr_grassTileSet/spr_grassTileSet.yy",},},
     {"id":{"name":"spr_arBullet","path":"sprites/spr_arBullet/spr_arBullet.yy",},},
+    {"id":{"name":"obj_soul","path":"objects/obj_soul/obj_soul.yy",},},
     {"id":{"name":"spr_glBullet","path":"sprites/spr_glBullet/spr_glBullet.yy",},},
     {"id":{"name":"spr_wraith","path":"sprites/spr_wraith/spr_wraith.yy",},},
     {"id":{"name":"spr_sniperBullet","path":"sprites/spr_sniperBullet/spr_sniperBullet.yy",},},
@@ -121,6 +122,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"testRoom","path":"rooms/testRoom/testRoom.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

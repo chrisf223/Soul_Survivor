@@ -31,6 +31,7 @@
     {"name":"spr_soul","order":8,"path":"sprites/spr_soul/spr_soul.yy",},
     {"name":"spr_rpgBullet","order":4,"path":"sprites/spr_rpgBullet/spr_rpgBullet.yy",},
     {"name":"spr_arBullet","order":3,"path":"sprites/spr_arBullet/spr_arBullet.yy",},
+    {"name":"obj_soul","order":11,"path":"objects/obj_soul/obj_soul.yy",},
     {"name":"spr_glBullet","order":5,"path":"sprites/spr_glBullet/spr_glBullet.yy",},
     {"name":"spr_wraith","order":9,"path":"sprites/spr_wraith/spr_wraith.yy",},
     {"name":"spr_sniperBullet","order":6,"path":"sprites/spr_sniperBullet/spr_sniperBullet.yy",},
