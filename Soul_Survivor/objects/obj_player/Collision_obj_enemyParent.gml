@@ -1,0 +1,1 @@
+currentHealth -= other.damage

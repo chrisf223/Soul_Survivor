@@ -10,6 +10,7 @@ if player_direction == direction_facing.down {
 
 if currentHealth <= 0 {
 	global.gameOver = true
+	instance_destroy()
 }
 
 x = clamp(x, sprite_width/2, room_width-sprite_width/2)
