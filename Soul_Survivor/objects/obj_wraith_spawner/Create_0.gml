@@ -3,6 +3,9 @@
 
 wave = 1
 
+xPos = x
+yPos = y
+
 
 
 
