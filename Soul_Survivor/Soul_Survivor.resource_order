@@ -8,6 +8,7 @@
     {"name":"Enemy Objects","order":9,"path":"folders/Objects/Enemy Objects.yy",},
     {"name":"Player Objects","order":12,"path":"folders/Objects/Player Objects.yy",},
     {"name":"Projectile Objects","order":10,"path":"folders/Objects/Projectile Objects.yy",},
+    {"name":"Spawners","order":20,"path":"folders/Objects/Spawners.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -23,7 +24,6 @@
     {"name":"Weapon Sprites","order":4,"path":"folders/Sprites/Weapon Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Spawners","order":20,"path":"folders/Objects/Spawners.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_wallTileSet","order":2,"path":"sprites/spr_wallTileSet/spr_wallTileSet.yy",},
