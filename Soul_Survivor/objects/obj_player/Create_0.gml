@@ -1,6 +1,7 @@
 experience = 0
 levelUpNumber = 100
 level = 1
+soulsCollected = 0
 
 enum direction_facing {
 	left,

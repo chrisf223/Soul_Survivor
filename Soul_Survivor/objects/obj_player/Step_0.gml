@@ -50,7 +50,9 @@ if experience == levelUpNumber {
 	level ++
 }
 
-
+if soulsCollected == 20 {
+	room_goto(Room_Win)
+}
 
 
 
