@@ -37,7 +37,7 @@ alarm[5] = alarmTime[5]
 slot[0] = "pistol"
 slot[1] = "assault rifle"
 slot[2] = "grenade launcher"
-slot[3] = "rocket launcer"
+slot[3] = "rocket launcher"
 slot[4] = "sniper rifle"
 slot[5] = "submachine gun"
 
