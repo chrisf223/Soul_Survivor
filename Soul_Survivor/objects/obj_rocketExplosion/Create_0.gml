@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-damage = 10
+damage = 50
+canDamage = true

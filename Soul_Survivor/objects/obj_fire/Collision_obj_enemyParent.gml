@@ -1,4 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
+if canDamage = true {
+	canDamage = false
+	alarm[1] = 45
+	other.health =- damage
+}
 
 
