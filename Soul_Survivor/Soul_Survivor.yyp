@@ -40,7 +40,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_backround","path":"sprites/spr_backround/spr_backround.yy",},},
@@ -74,6 +74,7 @@
     {"id":{"name":"obj_enemyParent","path":"objects/obj_enemyParent/obj_enemyParent.yy",},},
     {"id":{"name":"TileSet_Grass","path":"tilesets/TileSet_Grass/TileSet_Grass.yy",},},
     {"id":{"name":"spr_loseScreen","path":"sprites/spr_loseScreen/spr_loseScreen.yy",},},
+    {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},},
     {"id":{"name":"TileSet_Shadows","path":"tilesets/TileSet_Shadows/TileSet_Shadows.yy",},},
@@ -109,6 +110,7 @@
     {"id":{"name":"obj_bat_spawner","path":"objects/obj_bat_spawner/obj_bat_spawner.yy",},},
     {"id":{"name":"spr_G36C","path":"sprites/spr_G36C/spr_G36C.yy",},},
     {"id":{"name":"obj_glExplosion","path":"objects/obj_glExplosion/obj_glExplosion.yy",},},
+    {"id":{"name":"font_timer","path":"fonts/font_timer/font_timer.yy",},},
     {"id":{"name":"spr_rpgExplosion","path":"sprites/spr_rpgExplosion/spr_rpgExplosion.yy",},},
     {"id":{"name":"obj_playerDeathDown","path":"objects/obj_playerDeathDown/obj_playerDeathDown.yy",},},
     {"id":{"name":"obj_startScreen","path":"objects/obj_startScreen/obj_startScreen.yy",},},
@@ -140,6 +142,7 @@
     {"roomId":{"name":"Room_Win","path":"rooms/Room_Win/Room_Win.yy",},},
     {"roomId":{"name":"Room_Lose","path":"rooms/Room_Lose/Room_Lose.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
