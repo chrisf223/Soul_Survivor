@@ -1,4 +1,4 @@
-t_min = 1
+t_min = 10
 t_sec = 0
 t_mil = 0 
 

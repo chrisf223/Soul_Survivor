@@ -11,7 +11,7 @@ if t_sec<10 {t+="0"+string(t_sec)}
 t+="."
 t+= string(t_mil)
 
-draw_text(obj_player.x,obj_player.y,t)
+//draw_text(x,y,t)
 
 
 
