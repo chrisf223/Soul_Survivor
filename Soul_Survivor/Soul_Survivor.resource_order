@@ -52,6 +52,7 @@
     {"name":"spr_RPG","order":5,"path":"sprites/spr_RPG/spr_RPG.yy",},
     {"name":"obj_enemyParent","order":2,"path":"objects/obj_enemyParent/obj_enemyParent.yy",},
     {"name":"spr_loseScreen","order":10,"path":"sprites/spr_loseScreen/spr_loseScreen.yy",},
+    {"name":"obj_timer","order":21,"path":"objects/obj_timer/obj_timer.yy",},
     {"name":"obj_rocket","order":8,"path":"objects/obj_rocket/obj_rocket.yy",},
     {"name":"obj_fire","order":7,"path":"objects/obj_fire/obj_fire.yy",},
     {"name":"TileSet_Shadows","order":2,"path":"tilesets/TileSet_Shadows/TileSet_Shadows.yy",},
