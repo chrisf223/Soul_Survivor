@@ -78,6 +78,7 @@
     {"id":{"name":"obj_grenadeLauncher","path":"objects/obj_grenadeLauncher/obj_grenadeLauncher.yy",},},
     {"id":{"name":"obj_enemyParent","path":"objects/obj_enemyParent/obj_enemyParent.yy",},},
     {"id":{"name":"obj_SMG","path":"objects/obj_SMG/obj_SMG.yy",},},
+    {"id":{"name":"spr_grassBackround","path":"sprites/spr_grassBackround/spr_grassBackround.yy",},},
     {"id":{"name":"TileSet_Grass","path":"tilesets/TileSet_Grass/TileSet_Grass.yy",},},
     {"id":{"name":"spr_loseScreen","path":"sprites/spr_loseScreen/spr_loseScreen.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
