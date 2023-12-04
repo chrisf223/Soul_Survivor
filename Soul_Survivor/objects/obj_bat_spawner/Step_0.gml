@@ -27,6 +27,10 @@ if !instance_exists(obj_bat)
 	wave += 1
 }
 
+if wave mod 5 == 0 {
+	instance_create_layer(xPos, yPos, "Instances", obj_bat_spawner)
+}
+
 
 
 
