@@ -29,4 +29,9 @@ if !instance_exists(obj_zombie)
 }
 
 
+if wave mod 5 == 0 {
+	instance_create_layer(xPos, yPos, "Instances", obj_zombie_spawner)
+}
+
+
 
