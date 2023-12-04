@@ -23,6 +23,7 @@
     {"name":"inst_1A4FE2CC","path":"rooms/Room_Game/Room_Game.yy",},
     {"name":"inst_3F9ACCE0","path":"rooms/Room_Game/Room_Game.yy",},
     {"name":"inst_379034F2","path":"rooms/Room_Game/Room_Game.yy",},
+    {"name":"inst_4AB5DBFA","path":"rooms/Room_Game/Room_Game.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -43,6 +44,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1A4FE2CC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_zombie_spawner","path":"objects/obj_zombie_spawner/obj_zombie_spawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F9ACCE0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_scarab_spawner","path":"objects/obj_scarab_spawner/obj_scarab_spawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":960.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_379034F2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1536.0,"y":192.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4AB5DBFA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_weapon_spawner","path":"objects/obj_weapon_spawner/obj_weapon_spawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1728.0,"y":576.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_backround","path":"sprites/spr_backround/spr_backround.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
