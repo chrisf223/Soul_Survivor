@@ -18,5 +18,6 @@ if obj_player.player_direction == direction_facing.down {
 
 image_angle = direction
 
-damage = 20
+damage = 0
 
+audio_play_sound(snd_RPG_shot,0,false)

@@ -3,3 +3,5 @@
 
 damage = 40
 canDamage = true 
+
+audio_play_sound(snd_GL_explosion,0,false)

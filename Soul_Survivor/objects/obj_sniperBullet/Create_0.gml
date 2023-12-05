@@ -9,3 +9,5 @@ image_angle = direction
 damage = 40
 
 can_collide = true
+
+audio_play_sound(snd_sniper_shot,0,false)
