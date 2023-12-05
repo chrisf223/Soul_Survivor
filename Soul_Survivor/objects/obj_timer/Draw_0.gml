@@ -10,9 +10,9 @@ if t_sec>9 {t+=""+string(t_sec)}
 if t_sec<10 {t+="0"+string(t_sec)}
 t+="."
 t+= string(t_mil)
-
-//draw_text(x,y,t)
-
+if instance_exists(obj_player) {
+	draw_text(obj_player.x,obj_player.y -20,t)
+}
 
 
 
