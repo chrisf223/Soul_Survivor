@@ -34,12 +34,12 @@ alarm[4] = alarmTime[4]
 alarm[5] = alarmTime[5]
 
 // inventory system, only starts with pistol
-slot[0] = "pistol"
-slot[1] = "assault rifle"
+slot[0] = "" //"pistol"
+slot[1] = "" //"assault rifle"
 slot[2] = "grenade launcher"
-slot[3] = "rocket launcher"
-slot[4] = "sniper rifle"
-slot[5] = "submachine gun"
+slot[3] = ""//"rocket launcher"
+slot[4] = ""//"sniper rifle"
+slot[5] = ""//"submachine gun"
 
 
 
