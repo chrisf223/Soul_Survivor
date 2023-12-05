@@ -6,6 +6,7 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Enemy Objects","order":9,"path":"folders/Objects/Enemy Objects.yy",},
+    {"name":"Instructions Objects","order":24,"path":"folders/Objects/Instructions Objects.yy",},
     {"name":"Player Objects","order":12,"path":"folders/Objects/Player Objects.yy",},
     {"name":"Projectile Objects","order":10,"path":"folders/Objects/Projectile Objects.yy",},
     {"name":"Spawners","order":20,"path":"folders/Objects/Spawners.yy",},
@@ -25,7 +26,6 @@
     {"name":"Weapon Sprites","order":4,"path":"folders/Sprites/Weapon Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Instructions Objects","order":24,"path":"folders/Objects/Instructions Objects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_weaponParent","order":5,"path":"objects/obj_weaponParent/obj_weaponParent.yy",},

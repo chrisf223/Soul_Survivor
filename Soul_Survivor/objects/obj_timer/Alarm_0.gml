@@ -11,10 +11,11 @@ if t_sec = -1 {
 }
 
 if !(t_sec =0 and t_min = 0 and t_mil = 0) {
-	alarm[0] = fps/10
+	alarm[0] = 6
 } 
 else {
 	room_goto(Room_Win)
+	audio_play_sound(snd_helicopter,0,false)
 }
 
 
