@@ -13,3 +13,4 @@ if obj_player.player_direction == direction_facing.down {
 
 damage = 15
 
+audio_play_sound(snd_pistol_shot,0,false)

@@ -20,3 +20,5 @@ if random_direction == 3 {
 }
 
 damage = 10
+
+audio_play_sound(snd_AR_shot,0,false)
