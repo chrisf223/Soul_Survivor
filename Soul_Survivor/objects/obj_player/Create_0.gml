@@ -19,6 +19,9 @@ smg_directionTwo = 180
 maxHealth = 100
 currentHealth = maxHealth
 
+healthBarWidth = 64
+healthBarHeight = 10
+
 alarmTime[0] = 45
 alarmTime[1] = 200
 alarmTime[2] = 175

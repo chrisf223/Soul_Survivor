@@ -26,6 +26,7 @@
     {"name":"Weapon Sprites","order":4,"path":"folders/Sprites/Weapon Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"UI Sprites","order":13,"path":"folders/Sprites/UI Sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_weaponParent","order":5,"path":"objects/obj_weaponParent/obj_weaponParent.yy",},
@@ -82,6 +83,7 @@
     {"name":"snd_RPG_shot","order":8,"path":"sounds/snd_RPG_shot/snd_RPG_shot.yy",},
     {"name":"obj_grenade","order":5,"path":"objects/obj_grenade/obj_grenade.yy",},
     {"name":"obj_projectileParent","order":2,"path":"objects/obj_projectileParent/obj_projectileParent.yy",},
+    {"name":"spr_healthBarBorder","order":2,"path":"sprites/spr_healthBarBorder/spr_healthBarBorder.yy",},
     {"name":"obj_zombie_spawner","order":4,"path":"objects/obj_zombie_spawner/obj_zombie_spawner.yy",},
     {"name":"obj_sniperBullet","order":10,"path":"objects/obj_sniperBullet/obj_sniperBullet.yy",},
     {"name":"Room_Instructions","order":7,"path":"rooms/Room_Instructions/Room_Instructions.yy",},
@@ -91,6 +93,7 @@
     {"name":"obj_playerDeathUp","order":3,"path":"objects/obj_playerDeathUp/obj_playerDeathUp.yy",},
     {"name":"spr_playerDeathSide","order":2,"path":"sprites/spr_playerDeathSide/spr_playerDeathSide.yy",},
     {"name":"spr_playerIdleDown","order":7,"path":"sprites/spr_playerIdleDown/spr_playerIdleDown.yy",},
+    {"name":"spr_healthBarBG","order":1,"path":"sprites/spr_healthBarBG/spr_healthBarBG.yy",},
     {"name":"spr_SawedOff","order":8,"path":"sprites/spr_SawedOff/spr_SawedOff.yy",},
     {"name":"spr_fire","order":10,"path":"sprites/spr_fire/spr_fire.yy",},
     {"name":"obj_instructions_bat","order":3,"path":"objects/obj_instructions_bat/obj_instructions_bat.yy",},

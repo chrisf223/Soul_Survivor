@@ -50,6 +50,8 @@ if experience == levelUpNumber {
 	level ++
 }
 
+healthBarX = x - 32
+healthBarY = y - 30
 
 
 
