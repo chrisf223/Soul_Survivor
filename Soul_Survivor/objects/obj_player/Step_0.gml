@@ -45,9 +45,10 @@ if keyboard_check(vk_up) or keyboard_check(ord("W")) {
 }
 
 
-if experience == levelUpNumber {
-	levelUpNumber += 50
+if currentXP >= maxXP {
+	maxXP = (maxXP * 1.1)
 	level ++
+	currentXP = 0
 	maxHealth += 5
 	
 }

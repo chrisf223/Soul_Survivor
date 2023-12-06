@@ -1,5 +1,5 @@
-experience = 0
-levelUpNumber = 100
+currentXP = 0
+maxXP = 100
 level = 1
 soulsCollected = 0
 
@@ -22,12 +22,18 @@ currentHealth = maxHealth
 healthBarWidth = 64
 healthBarHeight = 10
 
+xpBarWidth = window_get_width();
+xpBarHeight = 18
+
 alarmTime[0] = 45
 alarmTime[1] = 200
 alarmTime[2] = 175
 alarmTime[3] = 400
 alarmTime[4] = 300
 alarmTime[5] = 8
+
+levelTextX = window_get_width() - 48
+levelTextY = 24
 
 alarm[0] = alarmTime[0]
 alarm[1] = alarmTime[1]
