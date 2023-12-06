@@ -54,6 +54,7 @@
     {"id":{"name":"spr_wallTileSet","path":"sprites/spr_wallTileSet/spr_wallTileSet.yy",},},
     {"id":{"name":"spr_scarab","path":"sprites/spr_scarab/spr_scarab.yy",},},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},},
+    {"id":{"name":"spr_wraithProjectile","path":"sprites/spr_wraithProjectile/spr_wraithProjectile.yy",},},
     {"id":{"name":"spr_M4A1","path":"sprites/spr_M4A1/spr_M4A1.yy",},},
     {"id":{"name":"obj_weapon_spawner","path":"objects/obj_weapon_spawner/obj_weapon_spawner.yy",},},
     {"id":{"name":"spr_soul","path":"sprites/spr_soul/spr_soul.yy",},},
