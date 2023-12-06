@@ -35,6 +35,7 @@
     {"name":"spr_wallTileSet","order":2,"path":"sprites/spr_wallTileSet/spr_wallTileSet.yy",},
     {"name":"spr_scarab","order":3,"path":"sprites/spr_scarab/spr_scarab.yy",},
     {"name":"obj_bat","order":1,"path":"objects/obj_bat/obj_bat.yy",},
+    {"name":"spr_wraithProjectile","order":8,"path":"sprites/spr_wraithProjectile/spr_wraithProjectile.yy",},
     {"name":"spr_M4A1","order":14,"path":"sprites/spr_M4A1/spr_M4A1.yy",},
     {"name":"obj_weapon_spawner","order":5,"path":"objects/obj_weapon_spawner/obj_weapon_spawner.yy",},
     {"name":"spr_soul","order":6,"path":"sprites/spr_soul/spr_soul.yy",},
