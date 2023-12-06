@@ -1,5 +1,5 @@
 instance_destroy(other)
-experience += 10
+currentXP += 10
 soulsCollected += 1
 if currentHealth <= (maxHealth -5){
 	currentHealth += 5
