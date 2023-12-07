@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_RPG_explosion.mp3",
   "type": 0,
-  "volume": 0.12,
+  "volume": 0.04,
 }
