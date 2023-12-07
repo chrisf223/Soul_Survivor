@@ -33,3 +33,4 @@ t_mil = 0
 alarm[6] = 6
 timerX = window_get_width() / 2
 timerY = 24
+

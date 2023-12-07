@@ -11,10 +11,12 @@ instance_deactivate_region(_vx - 300, _vy - 300, _vw + 300, _vh + 300, 0, 1)
 // spawns enemies in a random direction around the player outside of the viewport
 
 repeat(1) {
-	var dir = irandom_range(0,360)
-	var XX = obj_player.x + lengthdir_x(600, dir)
-	var YY = obj_player.y + lengthdir_y(600, dir)
-	instance_create_layer(XX,YY, "Instances", obj_zombie)
+	if (instance_exists(obj_player)) {
+		var dir = irandom_range(0,360)
+		var XX = obj_player.x + lengthdir_x(600, dir)
+		var YY = obj_player.y + lengthdir_y(600, dir)
+		instance_create_layer(XX,YY, "Instances", obj_zombie)
+	}
 }
 
 alarm[1] = zombieSpawnAlarm
