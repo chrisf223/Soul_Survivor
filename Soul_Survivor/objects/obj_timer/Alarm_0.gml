@@ -16,6 +16,7 @@ if !(t_sec =0 and t_min = 0 and t_mil = 0) {
 else {
 	room_goto(Room_Win)
 	audio_play_sound(snd_helicopter,0,false)
+	audio_stop_sound(snd_backround_music)
 }
 
 
