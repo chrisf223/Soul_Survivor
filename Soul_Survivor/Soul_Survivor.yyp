@@ -96,7 +96,6 @@
     {"id":{"name":"spr_grassBackround","path":"sprites/spr_grassBackround/spr_grassBackround.yy",},},
     {"id":{"name":"TileSet_Grass","path":"tilesets/TileSet_Grass/TileSet_Grass.yy",},},
     {"id":{"name":"spr_loseScreen","path":"sprites/spr_loseScreen/spr_loseScreen.yy",},},
-    {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},},
     {"id":{"name":"TileSet_Shadows","path":"tilesets/TileSet_Shadows/TileSet_Shadows.yy",},},
