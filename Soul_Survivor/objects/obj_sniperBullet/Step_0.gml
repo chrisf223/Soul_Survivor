@@ -6,7 +6,7 @@ if _num > 0 {
 		if can_collide {
 			can_collide = false
 			_list[| i].health -= damage
-			alarm[0] = 10
+			alarm[0] = 4
 		}
 		if(_list[| i].health <=	0) {
 			instance_destroy(_list[| i])

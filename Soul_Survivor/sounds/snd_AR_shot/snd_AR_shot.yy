@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_AR_shot.mp3",
   "type": 0,
-  "volume": 0.18,
+  "volume": 0.24,
 }
