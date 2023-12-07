@@ -27,7 +27,7 @@ mummySpawnAlarm = 240
 alarm[5] = mummySpawnAlarm
 
 // timer
-t_min = 10
+t_min = 5
 t_sec = 0
 t_mil = 0 
 alarm[6] = 6
