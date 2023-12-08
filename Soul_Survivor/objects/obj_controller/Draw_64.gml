@@ -1,4 +1,8 @@
 
+// instance count
+draw_text_ext_transformed(50,50, instance_number(obj_enemyParent), 0,500,4,4,0)
+
+// timer
 draw_set_color(c_white)
 draw_set_font(font_timer)
 draw_set_halign(fa_center)
@@ -15,6 +19,4 @@ t+= string(t_mil)
 
 
 draw_text(timerX, timerY, t)
-
-
 

@@ -73,7 +73,6 @@
     {"name":"obj_SMG","order":4,"path":"objects/obj_SMG/obj_SMG.yy",},
     {"name":"spr_grassBackround","order":11,"path":"sprites/spr_grassBackround/spr_grassBackround.yy",},
     {"name":"spr_loseScreen","order":10,"path":"sprites/spr_loseScreen/spr_loseScreen.yy",},
-    {"name":"obj_timer","order":21,"path":"objects/obj_timer/obj_timer.yy",},
     {"name":"obj_rocket","order":8,"path":"objects/obj_rocket/obj_rocket.yy",},
     {"name":"obj_fire","order":7,"path":"objects/obj_fire/obj_fire.yy",},
     {"name":"TileSet_Shadows","order":2,"path":"tilesets/TileSet_Shadows/TileSet_Shadows.yy",},

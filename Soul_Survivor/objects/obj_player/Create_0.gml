@@ -26,7 +26,7 @@ xpBarWidth = window_get_width();
 xpBarHeight = 18
 
 alarmTime[0] = 45 // pistol fire rate
-alarmTime[1] = 90 // ar fire rate
+alarmTime[1] = 75 // ar fire rate
 alarmTime[2] = 90 // grenade launcher fire rate
 alarmTime[3] = 270 // rocket launcher fire rate
 alarmTime[4] = 300 // sniper rifle fire rate
@@ -44,11 +44,11 @@ alarm[5] = alarmTime[5]
 
 // inventory system, only starts with pistol
 slot[0] = "pistol" //"pistol"
-slot[1] = "" //"assault rifle"
-slot[2] = "" //"grenade launcher"
-slot[3] = ""//"rocket launcher"
-slot[4] = ""//"sniper rifle"
-slot[5] = ""//"submachine gun"
+slot[1] = "assault rifle" //"assault rifle"
+slot[2] = "grenade launcher" //"grenade launcher"
+slot[3] = "rocket launcher"//"rocket launcher"
+slot[4] = "sniper rifle"//"sniper rifle"
+slot[5] = "submachine gun"//"submachine gun"
 
 
 
