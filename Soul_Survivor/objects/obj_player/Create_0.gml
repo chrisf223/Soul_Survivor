@@ -25,7 +25,7 @@ healthBarHeight = 10
 xpBarWidth = window_get_width();
 xpBarHeight = 18
 
-alarmTime[0] = 45 // pistol fire rate
+alarmTime[0] = 30 // pistol fire rate
 alarmTime[1] = 75 // ar fire rate
 alarmTime[2] = 90 // grenade launcher fire rate
 alarmTime[3] = 270 // rocket launcher fire rate

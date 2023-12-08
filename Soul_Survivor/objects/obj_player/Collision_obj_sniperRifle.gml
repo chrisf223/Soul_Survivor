@@ -2,6 +2,6 @@
 
 slot[4] = "sniper rifle"
 
-alarm[9] = 1500
+alarm[9] = 2000
 
 

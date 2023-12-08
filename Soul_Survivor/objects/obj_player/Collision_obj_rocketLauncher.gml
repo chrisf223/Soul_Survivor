@@ -2,6 +2,6 @@
 
 slot[3] = "rocket launcher"
 
-alarm[8] = 1500
+alarm[8] = 2000
 
 
