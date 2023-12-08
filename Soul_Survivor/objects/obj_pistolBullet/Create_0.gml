@@ -11,6 +11,6 @@ if obj_player.player_direction == direction_facing.down {
 	vspeed += bullet_speed
 }
 
-damage = 15
+damage = 30
 
 audio_play_sound(snd_pistol_shot,0,false)
