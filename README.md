@@ -1,5 +1,12 @@
 # Soul_Survivor
 
+Programmer: DeCristo Franceschini
+
+Artist: Brendan Rahilly
+
+Producer: Jacob Welsh
+
+
 Press spacebar to start the game, use WASD or arrow keys to move. 
 Defeated enemies will drop souls, collect souls to gain experience and regain health. 
 Collect enough experience to level up to increase maximum health.
