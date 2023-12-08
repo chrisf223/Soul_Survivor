@@ -98,6 +98,8 @@ https://bdragon1727.itch.io/fire-pixel-bullet-16x16
 Free Pixel Art Explosions by CraftPix (craftpix.net) 
 https://free-game-assets.itch.io/11-free-pixel-art-explosion-sprites/download/eyJpZCI6MTQ4NzI1MSwiZXhwaXJlcyI6MTcwMDY4MTQ2MX0%3d%2eIY9u27OwNfkGXsN4cZub9xlZWFg%3d
 
+Menu Screens Created through the Freepik AI Image Generator 
+https://www.freepik.com/ai/image-generator
 
 
 
