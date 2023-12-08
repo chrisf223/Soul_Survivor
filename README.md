@@ -14,7 +14,6 @@ Cheat Codes:
 
 Licencsing Info
 
-Sound Assets: 
 menu by Pixabay (pixabay.com)
 https://pixabay.com/sound-effects/menu-53679/
 
@@ -78,8 +77,6 @@ https://pixabay.com/sound-effects/grenade-fire-eplosion-05-96471/
 Pistol Cock by Pixabay (pixabay.com)
 https://pixabay.com/sound-effects/pistol-cock-6014/
 
-
-Art Assets:
 Apocalypse Asset Pack by cuddle bug  (cuddle-bug.itch.io) 
 https://cuddle-bug.itch.io/apocalypse
 
