@@ -9,13 +9,21 @@ Survive for five minutes to win the game.
 Weapons will spawn periodically around the map. Interact with them to use them for a short duration. 
 Weapons fire automatically, so focus on avoiding enemies while hitting them with your weapons.
 
+
 Cheat Codes:
+
 Alt + F: gives player all weapons
+
 Alt + G: removes all weapons, except pistol, from the player
+
 Alt + E: sets the players health to max health
+
 Alt + R: restarts the room
+
 Alt + T: sets timer back to 5 minutes
+
 Alt + Y: sets the timer to 0 minutes, 1 second so the game ends quicker
+
 
 Licencsing Info
 
