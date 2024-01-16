@@ -43,7 +43,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"obj_weaponParent","path":"objects/obj_weaponParent/obj_weaponParent.yy",},},
@@ -185,7 +185,6 @@
     {"roomId":{"name":"Room_Lose","path":"rooms/Room_Lose/Room_Lose.yy",},},
     {"roomId":{"name":"Room_Instructions","path":"rooms/Room_Instructions/Room_Instructions.yy",},},
   ],
-  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
